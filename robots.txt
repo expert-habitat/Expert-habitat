@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://expert-habitat.github.io/Expert-habitat/sitemap.xml
