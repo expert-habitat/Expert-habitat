@@ -1,0 +1,16 @@
+{
+  "name": "Expert Habitat - Couvreur Montpellier",
+  "short_name": "Expert Habitat",
+  "description": "Artisan couvreur à Montpellier - Couvreur charpentier Hérault - Réfection toiture, fuite, zinguerie, démoussage, Velux. Devis gratuit 06 11 09 77 11 - SIRET 85114168900030",
+  "start_url": "/Experthabitat/",
+  "display": "standalone",
+  "background_color": "#F3EEE3",
+  "theme_color": "#1B2130",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
