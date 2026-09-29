@@ -1,8 +1,6 @@
 User-agent: *
 Allow: /
 
-# Bloque la page de remerciement (noindex)
-Disallow: /merci.html
+Disallow: /Expert-habitat/merci.html
 
-# Sitemap principal
 Sitemap: https://expert-habitat.github.io/Expert-habitat/sitemap.xml
