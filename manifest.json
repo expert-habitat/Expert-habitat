@@ -1,0 +1,16 @@
+{
+  "name": "Expert Habitat - Couvreur Montpellier",
+  "short_name": "Expert Habitat",
+  "description": "Artisan couvreur à Montpellier - Couvreur charpentier Hérault - Réfection toiture, fuite, zinguerie, démoussage, Velux.",
+  "start_url": "/Expert-habitat/",
+  "display": "standalone",
+  "background_color": "#F3EEE3",
+  "theme_color": "#1B2130",
+  "icons": [
+    {
+      "src": "logo-expert-habitat.JPG",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
